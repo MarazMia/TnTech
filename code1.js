@@ -12,3 +12,4 @@
 // alert('XSS');
 // }
 alert('XSS');
+console.log('working!');
