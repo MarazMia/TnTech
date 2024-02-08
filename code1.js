@@ -11,4 +11,4 @@
 // if(a==200){
 // alert('XSS');
 // }
-alert('XSS')
+alert('XSS');
